@@ -1,0 +1,1431 @@
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\AssetManagement.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\AssetManagement.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\AppManifest.xaml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\AssetManagement.xap
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\AssetManagement.csprojResolveAssemblyReference.cache
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\App.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\MainPage.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\AssetManagement.g.resources
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\AssetManagement.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\AssetManagement.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\XapCacheFile.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\Views\Common\ActionMenu.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\Views\Common\MessageAlarm.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\Views\Home.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\mvvmCommon.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\system.windows.controls.layout.toolkit.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Toolkit.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\GalaSoft.MvvmLight.SL5.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Navigation.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\mvvmCommon.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\system.windows.controls.layout.toolkit.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\system.windows.controls.layout.toolkit.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Toolkit.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Navigation.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ar\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\bg\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ca\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\cs\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\da\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\de\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\el\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\es\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\et\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\eu\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\fi\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\fr\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\he\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\hr\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\hu\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\id\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\it\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ja\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ko\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\lt\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\lv\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ms\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\nl\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\no\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\pl\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\pt\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ro\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ru\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sk\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sl\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sv\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\th\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\tr\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\uk\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\vi\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Interactivity.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Interactivity.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\Views\Common\SilverlightControl1.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\vi-VN\AssetManagement.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\AssetManagement.Resources.CommonResource.resources
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\AssetManagement.Resources.CommonResource.vi-VN.resources
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\AssetManagement.csproj.GenerateResource.Cache
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\obj\Debug\vi-VN\AssetManagement.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\AssetManagement.html
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Data.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Data.Toolkit.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\Microsoft.Expression.Interactions.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Xml.Serialization.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Data.Input.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Data.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Data.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Data.Toolkit.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Data.Toolkit.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Input.Toolkit.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\Microsoft.Expression.Interactions.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Xml.Serialization.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Controls.Data.Input.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\System.Windows.Data.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\de\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\es\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\it\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\de\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\es\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\fr\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\it\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ja\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ko\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\ru\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\SilverlightProject1\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\AssetManagement.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\AssetManagement.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\vi-VN\AssetManagement.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\AppManifest.xaml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\AssetManagement.xap
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\AssetManagement.html
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\FJ.Core.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\FluentValidation.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\GalaSoft.MvvmLight.SL5.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Lite.ExcelLibrary.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Lite.Library.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Drawing.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Effects.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Interactions.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\mvvmCommon.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Silverlight.Md5.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ServiceModel.DomainServices.Client.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ServiceModel.Web.Extensions.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Input.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Toolkit.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Input.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\system.windows.controls.layout.toolkit.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Navigation.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Toolkit.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Data.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Interactivity.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Xml.Linq.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Xml.Serialization.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Drawing.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Effects.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Interactions.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\mvvmCommon.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ServiceModel.DomainServices.Client.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ServiceModel.Web.Extensions.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Input.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Toolkit.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Toolkit.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\system.windows.controls.datavisualization.toolkit.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Input.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Input.Toolkit.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\system.windows.controls.layout.toolkit.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\system.windows.controls.layout.toolkit.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Navigation.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Toolkit.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Data.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Interactivity.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Xml.Linq.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Xml.Serialization.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.ServiceModel.Web.Extensions.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.ServiceModel.Web.Extensions.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.ServiceModel.Web.Extensions.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.ServiceModel.Web.Extensions.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.ServiceModel.Web.Extensions.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.ServiceModel.Web.Extensions.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.ServiceModel.Web.Extensions.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ar\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\bg\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ca\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\cs\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\da\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\el\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\et\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\eu\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fi\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\he\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hr\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hu\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\id\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lt\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lv\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ms\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\nl\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\no\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pl\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ro\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sk\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sl\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sv\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\th\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\tr\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\uk\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\vi\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ar\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\bg\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ca\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\cs\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\da\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\el\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\et\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\eu\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fi\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\he\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hr\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hu\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\id\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lt\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lv\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ms\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\nl\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\no\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pl\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt-BR\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ro\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sk\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sl\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sv\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\th\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\tr\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\uk\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\vi\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.Input.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Xml.Linq.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Xml.Linq.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Xml.Linq.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Xml.Linq.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Xml.Linq.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Xml.Linq.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Xml.Linq.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.csprojResolveAssemblyReference.cache
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\App.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\MainPage.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\UploadFileControl\FileUploadControl.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\UploadFileControl\FileUploadRowControl.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\UploadFileControl\MainFileUpload.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\ApproveAT.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\ApproveEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetDetail.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetList.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetRequestEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetRequestList.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetSearching.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\DiscountValue.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\GroupEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\GroupList.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\Guarantee.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\Liquidation.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\RequestSearch.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\Revaluation.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\TypeEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\TypeList.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\UnitEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\UnitList.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetTransfer.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Common\ActionMenu.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Common\CalendarEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Common\LeftMenu.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Common\MessageAlarm.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Common\MessageBoxCustomer.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Home.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\AreaEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\AreaList.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\InfrastructureList.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\InfrastructureEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\ManufacturerEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\ManufacturerList.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\ManufacturerSearch.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\RoomList.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\RoomEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\LoginSystem.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Statistics\AssetReport.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Statistics\InfranstructureReport.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Statistics\InOutReport.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Statistics\OtherReport.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Statistics\PrintStamp.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\CaptChaControl.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\Menu.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\MenuEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\Roles.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\RolesEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\User.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\UserEdit.g.cs
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.g.resources
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.AssetResource.resources
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.CommonResource.resources
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.SystemRoleResource.resources
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.ValidatorResource.resources
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.CommonResource.vi-VN.resources
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.AssetResource.vi-VN.resources
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.SystemRoleResource.vi-VN.resources
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.ValidatorResource.vi-VN.resources
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.csproj.GenerateResource.Cache
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\vi-VN\AssetManagement.resources.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\XapCacheFile.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\AssetManagement.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\AssetManagement.pdb
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\vi-VN\AssetManagement.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\AppManifest.xaml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\AssetManagement.xap
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\AssetManagement.html
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\FJ.Core.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\FluentValidation.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\GalaSoft.MvvmLight.SL5.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Lite.ExcelLibrary.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Lite.Library.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Drawing.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Effects.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\mvvmCommon.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Silverlight.Md5.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ServiceModel.DomainServices.Client.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ServiceModel.Web.Extensions.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Input.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Navigation.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Data.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Interactivity.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Xml.Linq.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Xml.Serialization.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Drawing.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Effects.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\mvvmCommon.pdb
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ServiceModel.DomainServices.Client.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.ServiceModel.Web.Extensions.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Toolkit.pdb
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Toolkit.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\system.windows.controls.datavisualization.toolkit.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Input.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Input.Toolkit.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\system.windows.controls.layout.toolkit.pdb
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\system.windows.controls.layout.toolkit.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Navigation.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Toolkit.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Data.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Interactivity.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Xml.Linq.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Xml.Serialization.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.ServiceModel.Web.Extensions.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.ServiceModel.Web.Extensions.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.ServiceModel.Web.Extensions.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.ServiceModel.Web.Extensions.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.ServiceModel.Web.Extensions.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.ServiceModel.Web.Extensions.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.ServiceModel.Web.Extensions.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ar\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\bg\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ca\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\cs\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\da\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\el\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\et\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\eu\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fi\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\he\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hr\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hu\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\id\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lt\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lv\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ms\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\nl\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\no\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pl\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ro\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sk\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sl\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sv\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\th\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\tr\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\uk\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\vi\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ar\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\bg\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ca\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\cs\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\da\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\el\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\et\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\eu\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fi\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\he\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hr\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\hu\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\id\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lt\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\lv\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ms\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\nl\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\no\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pl\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\pt-BR\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ro\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sk\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sl\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\sv\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\th\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\tr\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\uk\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\vi\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.Input.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Windows.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Windows.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Windows.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Windows.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Windows.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Windows.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Windows.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Xml.Linq.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Xml.Linq.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Xml.Linq.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Xml.Linq.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Xml.Linq.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Xml.Linq.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Xml.Linq.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\de\System.Xml.Serialization.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\es\System.Xml.Serialization.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\it\System.Xml.Serialization.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.csprojResolveAssemblyReference.cache
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\App.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\MainPage.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\UploadFileControl\FileUploadControl.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\UploadFileControl\FileUploadRowControl.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\UploadFileControl\MainFileUpload.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\ApproveAT.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\ApproveEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetDetail.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetList.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetRequestEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetRequestList.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetSearching.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\DiscountValue.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\GroupEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\GroupList.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\Guarantee.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\Liquidation.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\RequestSearch.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\Revaluation.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\TypeEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\TypeList.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\UnitEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\UnitList.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\AssetTransfer.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Common\ActionMenu.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Common\CalendarEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Common\LeftMenu.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Common\MessageAlarm.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Common\MessageBoxCustomer.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Home.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\AreaEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\AreaList.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\InfrastructureList.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\InfrastructureEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\ManufacturerEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\ManufacturerList.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\ManufacturerSearch.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\RoomList.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Infranstructure\RoomEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\LoginSystem.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Statistics\AssetReport.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Statistics\InfranstructureReport.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Statistics\InOutReport.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Statistics\OtherReport.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\Statistics\PrintStamp.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\CaptChaControl.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\Menu.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\MenuEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\Roles.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\RolesEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\User.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\SystemRole\UserEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.g.resources
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.AssetResource.resources
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.CommonResource.resources
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.SystemRoleResource.resources
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.ValidatorResource.resources
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.CommonResource.vi-VN.resources
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.AssetResource.vi-VN.resources
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.SystemRoleResource.vi-VN.resources
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.Resources.ValidatorResource.vi-VN.resources
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.csproj.GenerateResource.Cache
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\vi-VN\AssetManagement.resources.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\AssetManagement.pdb
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\XapCacheFile.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\ResearchList.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\OtherAsset.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\obj\Debug\Views\AssetManager\OtherAssetEdit.g.cs
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Toolkit.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\system.windows.controls.layout.toolkit.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\AssetManagement\Bin\Debug\System.Windows.Controls.Toolkit.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\AssetManagement.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\AssetManagement.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\vi-VN\AssetManagement.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\AppManifest.xaml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\AssetManagement.xap
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\AssetManagement.html
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\FJ.Core.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\FluentValidation.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\GalaSoft.MvvmLight.SL5.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\Lite.ExcelLibrary.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\Lite.Library.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\Microsoft.Expression.Drawing.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\Microsoft.Expression.Effects.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\mvvmCommon.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\Silverlight.Md5.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.ServiceModel.DomainServices.Client.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.ServiceModel.Web.Extensions.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Data.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Toolkit.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Input.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\system.windows.controls.layout.toolkit.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Navigation.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Toolkit.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Data.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Interactivity.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Xml.Linq.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Xml.Serialization.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\Microsoft.Expression.Drawing.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\Microsoft.Expression.Effects.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\mvvmCommon.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.ServiceModel.DomainServices.Client.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.ServiceModel.Web.Extensions.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Data.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Toolkit.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Data.Toolkit.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\system.windows.controls.datavisualization.toolkit.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Input.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Input.Toolkit.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\system.windows.controls.layout.toolkit.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\system.windows.controls.layout.toolkit.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Navigation.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Controls.Toolkit.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Data.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Windows.Interactivity.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Xml.Linq.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\System.Xml.Serialization.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\de\System.ServiceModel.Web.Extensions.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\es\System.ServiceModel.Web.Extensions.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fr\System.ServiceModel.Web.Extensions.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\it\System.ServiceModel.Web.Extensions.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ja\System.ServiceModel.Web.Extensions.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ko\System.ServiceModel.Web.Extensions.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ru\System.ServiceModel.Web.Extensions.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ar\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\bg\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ca\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\cs\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\da\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\el\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\et\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\eu\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fi\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\he\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\hr\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\hu\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\id\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\lt\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\lv\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ms\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\nl\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\no\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pl\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pt\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ro\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ru\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sk\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sl\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sv\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\th\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\tr\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\uk\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\vi\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ar\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\bg\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ca\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\cs\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\da\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\de\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\el\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\es\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\et\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\eu\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fi\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fr\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\he\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\hr\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\hu\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\id\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\it\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ja\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ko\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\lt\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\lv\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ms\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\nl\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\no\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pl\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pt\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\pt-BR\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ro\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ru\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sk\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sl\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\sv\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\th\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\tr\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\uk\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\vi\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.Input.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\de\System.Windows.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\es\System.Windows.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fr\System.Windows.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\it\System.Windows.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ja\System.Windows.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ko\System.Windows.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ru\System.Windows.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\de\System.Xml.Linq.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\es\System.Xml.Linq.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fr\System.Xml.Linq.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\it\System.Xml.Linq.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ja\System.Xml.Linq.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ko\System.Xml.Linq.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ru\System.Xml.Linq.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\de\System.Xml.Serialization.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\es\System.Xml.Serialization.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\it\System.Xml.Serialization.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.csprojResolveAssemblyReference.cache
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\App.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\MainPage.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\UploadFileControl\FileUploadControl.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\UploadFileControl\FileUploadRowControl.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\UploadFileControl\MainFileUpload.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\ApproveAT.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\ApproveEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\AssetDetail.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\AssetEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\AssetList.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\AssetRequestEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\AssetRequestList.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\AssetSearching.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\DiscountValue.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\GroupEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\GroupList.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\Guarantee.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\Liquidation.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\OtherAsset.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\OtherAssetEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\RequestSearch.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\ResearchList.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\Revaluation.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\TypeEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\TypeList.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\UnitEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\UnitList.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\AssetManager\AssetTransfer.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Common\ActionMenu.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Common\CalendarEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Common\LeftMenu.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Common\MessageAlarm.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Common\MessageBoxCustomer.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Home.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Infranstructure\AreaEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Infranstructure\AreaList.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Infranstructure\InfrastructureList.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Infranstructure\InfrastructureEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Infranstructure\ManufacturerEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Infranstructure\ManufacturerList.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Infranstructure\ManufacturerSearch.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Infranstructure\RoomList.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Infranstructure\RoomEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\LoginSystem.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Statistics\AssetReport.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Statistics\InfranstructureReport.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Statistics\InOutReport.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Statistics\OtherReport.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\Statistics\PrintStamp.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\SystemRole\CaptChaControl.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\SystemRole\Menu.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\SystemRole\MenuEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\SystemRole\Roles.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\SystemRole\RolesEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\SystemRole\User.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\Views\SystemRole\UserEdit.g.cs
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.g.resources
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.Resources.AssetResource.resources
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.Resources.CommonResource.resources
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.Resources.SystemRoleResource.resources
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.Resources.ValidatorResource.resources
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.Resources.CommonResource.vi-VN.resources
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.Resources.AssetResource.vi-VN.resources
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.Resources.SystemRoleResource.vi-VN.resources
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.Resources.ValidatorResource.vi-VN.resources
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.csproj.GenerateResource.Cache
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\vi-VN\AssetManagement.resources.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\AssetManagement.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement\obj\Debug\XapCacheFile.xml

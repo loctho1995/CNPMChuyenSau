@@ -1,0 +1,2 @@
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Silverlight
+Generated_Code\gAMS_Sacombank.Web.g.cs

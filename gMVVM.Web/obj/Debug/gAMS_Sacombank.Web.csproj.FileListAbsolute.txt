@@ -1,0 +1,364 @@
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\mvvmSilverlight.Web.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\mvvmSilverlight.Web.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DC.SilverlightFileUpload.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.AspNet.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.Core.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\EntityFramework.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.QualityTools.Testing.Fakes.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\System.Web.Providers.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.1.8.20.0.Fakes.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DC.SilverlightFileUpload.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\EntityFramework.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.Core.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.AspNet.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\obj\Debug\gAMS_Sacombank.Web.csprojResolveAssemblyReference.cache
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.pdb
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.csprojResolveAssemblyReference.cache
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.pdb
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.pdb
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\EntityFramework.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.QualityTools.Testing.Fakes.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\System.Web.Providers.dll
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DC.SilverlightFileUpload.pdb
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\EntityFramework.xml
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.xml
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.xml
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.xml
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.xml
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.pdb
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\EntityFramework.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\Microsoft.QualityTools.Testing.Fakes.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\System.Web.Providers.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DC.SilverlightFileUpload.pdb
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\EntityFramework.xml
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.xml
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.xml
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.xml
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.xml
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.csprojResolveAssemblyReference.cache
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.dll
+E:\gAMS_Sacombanks\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.pdb
+D:\Project Sacombank\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.csprojResolveAssemblyReference.cache
+D:\Project Sacombank\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.pdb
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.pdb
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\EntityFramework.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\System.Web.Providers.dll
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DC.SilverlightFileUpload.pdb
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\EntityFramework.xml
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.xml
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.xml
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.xml
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Project Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DC.SilverlightFileUpload.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\EntityFramework.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.QualityTools.Testing.Fakes.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\System.Web.Providers.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DC.SilverlightFileUpload.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\EntityFramework.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.csprojResolveAssemblyReference.cache
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.pdb
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.pdb
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DC.SilverlightFileUpload.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\EntityFramework.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.QualityTools.Testing.Fakes.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\System.Web.Providers.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\zxing.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\zxing.presentation.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DC.SilverlightFileUpload.pdb
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\EntityFramework.xml
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.xml
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.xml
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.xml
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.xml
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\zxing.pdb
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\zxing.xml
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\zxing.presentation.pdb
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\bin\zxing.presentation.xml
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.dll
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.pdb
+E:\GSOFT\Projects\NewCode\gAMS_Sacombank\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.csprojResolveAssemblyReference.cache
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.pdb
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\EntityFramework.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.QualityTools.Testing.Fakes.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\System.Web.Providers.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\zxing.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\zxing.presentation.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\EntityFramework.xml
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.xml
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.xml
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.xml
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.xml
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\zxing.pdb
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\zxing.xml
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\zxing.presentation.pdb
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\zxing.presentation.xml
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.dll
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.pdb
+E:\GSOFT\Projects\gAMS_Sacombank_V2\WIP\Program\gAMS_Sacombank.Web\bin\System.Web.Silverlight.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.dll.config
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.pdb
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\EntityFramework.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\System.Web.Providers.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\zxing.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\zxing.presentation.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\MonAgentListener.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\Org.Mentalis.Security.Cryptography.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\Mono.Math.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\EntityFramework.xml
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.xml
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.xml
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.xml
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.xml
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\zxing.pdb
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\zxing.xml
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\zxing.presentation.pdb
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\zxing.presentation.xml
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\Org.Mentalis.Security.Cryptography.xml
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\bin\Mono.Math.xml
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.csprojResolveAssemblyReference.cache
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.dll
+D:\Quan ly tai san-UAT\Program06072015_2\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.pdb
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.dll.config
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.pdb
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\EntityFramework.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\System.Web.Providers.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\zxing.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\zxing.presentation.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\MonAgentListener.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\Org.Mentalis.Security.Cryptography.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\Mono.Math.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\EntityFramework.xml
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.xml
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.xml
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.xml
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.xml
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\zxing.pdb
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\zxing.xml
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\zxing.presentation.pdb
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\zxing.presentation.xml
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\Org.Mentalis.Security.Cryptography.xml
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\bin\Mono.Math.xml
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.dll
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.pdb
+D:\GSOFT\Project\SCB\Taisandambao\WIP\Program\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.csprojResolveAssemblyReference.cache
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.dll.config
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\gAMS_Sacombank.Web.pdb
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportSource.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.Shared.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.Web.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\EntityFramework.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\System.Web.Providers.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\zxing.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\zxing.presentation.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\MonAgentListener.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\Org.Mentalis.Security.Cryptography.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\stdole.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\Mono.Math.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\EntityFramework.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.Core.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\DotNetOpenAuth.AspNet.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\zxing.pdb
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\zxing.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\zxing.presentation.pdb
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\zxing.presentation.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\Org.Mentalis.Security.Cryptography.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\bin\Mono.Math.xml
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.csprojResolveAssemblyReference.cache
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.dll
+D:\GSOFT\SVTT\Nam2016\QLTS\Program\gAMS_Sacombank.Web\obj\Debug\gAMS_Sacombank.Web.pdb

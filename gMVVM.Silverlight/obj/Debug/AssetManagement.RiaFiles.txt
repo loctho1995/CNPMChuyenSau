@@ -1,0 +1,2 @@
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\AssetManagement
+Generated_Code\mvvmSilverlight.Web.g.cs

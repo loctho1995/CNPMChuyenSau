@@ -1,0 +1,125 @@
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\mvvmSilverlight.Web.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\mvvmSilverlight.Web.pdb
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.AspNet.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.Core.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\EntityFramework.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\System.Web.Providers.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\EntityFramework.xml
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.Core.xml
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.xml
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.xml
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.AspNet.xml
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.csprojResolveAssemblyReference.cache
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.dll
+E:\GSOFT\Projects\mvvmSilverlight\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\mvvmSilverlight.Web.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\mvvmSilverlight.Web.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.1.8.20.0.Fakes.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DC.SilverlightFileUpload.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.AspNet.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.Core.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\EntityFramework.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.QualityTools.Testing.Fakes.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\System.Web.Providers.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.1.8.20.0.Fakes.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DC.SilverlightFileUpload.pdb
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\EntityFramework.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.Core.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.AspNet.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.csprojResolveAssemblyReference.cache
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.dll
+E:\GSOFT\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.pdb
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\mvvmSilverlight.Web.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\mvvmSilverlight.Web.pdb
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DC.SilverlightFileUpload.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.AspNet.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.Core.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\EntityFramework.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.QualityTools.Testing.Fakes.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\System.Web.Providers.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.1.8.20.0.Fakes.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DC.SilverlightFileUpload.pdb
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\EntityFramework.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.Core.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\DotNetOpenAuth.AspNet.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.csprojResolveAssemblyReference.cache
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.dll
+D:\gsoft\Projects\Asset Management\WIP\Program\mvvmSilverlight\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\mvvmSilverlight.Web.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\mvvmSilverlight.Web.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DC.SilverlightFileUpload.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.AspNet.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.Core.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\EntityFramework.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.QualityTools.Testing.Fakes.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\System.Web.Providers.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.1.8.20.0.Fakes.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DC.SilverlightFileUpload.pdb
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\EntityFramework.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.Core.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\DotNetOpenAuth.AspNet.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.csprojResolveAssemblyReference.cache
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.dll
+D:\GSOFT\Projects\gAMS_Sacombank\WIP\Program\gAMS_Sacombank\mvvmSilverlight.Web\obj\Debug\mvvmSilverlight.Web.pdb

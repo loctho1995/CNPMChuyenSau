@@ -1,0 +1,2 @@
+F:\Github\CNPMChuyenSau\gMVVM.Silverlight
+Generated_Code\gMVVM.Web.g.cs
